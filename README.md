@@ -1,5 +1,4 @@
-##
-
+theme : minima
 ### About Me:
 - **Prabhu Rohit Venkatesan**, Data Science Enthusiast & Investor 
 
