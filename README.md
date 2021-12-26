@@ -79,6 +79,8 @@
 
 ## Hackathons: BWAI Zero Waste Hunger Management 
 
+- Link to Web Application : [Product Storage Management](https://share.streamlit.io/the19thpirate/hackathonbwai/main/model.py)
+
 - **Tools And Models Used**:
      - ARIMA 
      - Seasonal ARIMA
