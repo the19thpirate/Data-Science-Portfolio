@@ -1,7 +1,9 @@
-# Data Science Portfolio
-
 ## About Me:
-- Prabhu Rohit Venkatesan, Data Science Enthusiast, Investor 
+- **Prabhu Rohit Venkatesan** |Data Science Enthusiast, Investor| 
+
+- Contact:
+   - Phone : 8452912926
+   - [Linkedin](https://www.linkedin.com/in/rohit-venkatesan-b12776168/)
 
 - Education : 
      - **Post Graduate Program in Data Science And Business Analytics** from **Great Learning**,
