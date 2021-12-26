@@ -50,4 +50,24 @@
 - This tool helps the user to find whether there are explicit words that might be present in current day top songs. Furthermore, this tool helps the user to understand other aspects of the song by giving recommendations.
 - The other recommendations come on the basis of these results which can be considered by the user when recommending the song they've analysed :
 
-![Subjectivity, Polarity, Verdict](https://github.com/the19thpirate/Explicit-Song-Analysis/blob/main/Sub%2Cpol%2Cverdict.JPG)
+## Hackathons: BWAI Zero Waste Hunger Management 
+
+### Tools And Models Used:
+- ARIMA 
+- Seasonal ARIMA
+- Exponential Smoothing
+- Streamlit
+- VSCode and Jupyter Notebook as IDE.
+- 
+
+### Models Used for Interface:
+- ARIMA.
+
+### Problem Statement:
+- Zero Waste Hunger Management
+     - How NGO's can leverage AI Just in Australia, 7.3 million tones of food is lost or wasted, estimated to be 298 kg per capita per year.
+     - At the same time, over 5 million Australians experience food insecurity each year. Traditionally NGOs are not equipped or funded to use the latest AI Data Driven   Technology to help provide these services efficiently with the best consumer experience.
+
+### Solution:
+- Using Time Series Forecasting for Product Storage Management 
+- This helps partners and communities to manage food requirements and donations for 5 days into the future so food wastage can be reduced.
