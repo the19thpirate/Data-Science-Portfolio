@@ -15,9 +15,19 @@
 * Sci-kit Learn
 * Numpy and Pandas
 
-### About the Tool:
+### Problem Statement, Analysis & Findings:
 - Majority of investors face the problem of managing their portfolio and lose a lot of time in making decisions due to which would rather be used for finding better positions in the markets. 
 - This tool allows the user to visualise their stock portfolio and other attributes which assist in making decisions on managing their portfolio.
 - (Note : This is made only for personal use and for learning GUI design. The Stock Details which are being showcased in this project are random stocks and  **SHOULD NOT BE TAKEN AS INVESTMENT ADVICE**)
 
+## Project 2 : [Kitchen Appliance Selection (Chimney and Stove)](https://github.com/the19thpirate/Kitchen-Appliances)
+
+### Tools and Skills Used:
+* BeautifulSoup & Selenium for Web Scraping
+* Numpy and Pandas 
+* Matplotlib for Visualization
+
+### Problem Statement, Analysis and Findings:
+- After a recent renovation of the kitchen, there came a problem of installing a new stove and chimney. Each store were selling products from the companies which sponsored them and the recommendations were highly subjective. So choosing the right product for the kitchen seemed difficult.
+- To get an objective opinion of the products, all stoves and chimneys data was scraped from Amazon for each of the three brands and compared against each other.
 
