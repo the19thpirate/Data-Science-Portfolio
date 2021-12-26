@@ -80,7 +80,8 @@
      - The Polarity, Subjectivity/Objectivity of the song lyrics are calculated using TextBlob.
 
 
-## Hackathons: BWAI Zero Waste Hunger Management 
+## Hackathons:
+### 1. BWAI Zero Waste Hunger Management, Team Lead 
 
 - Link to Web Application : [Product Storage Management](https://share.streamlit.io/the19thpirate/hackathonbwai/main/model.py)
 
