@@ -2,8 +2,10 @@
 - Prabhu Rohit Venkatesan, Data Science Enthusiast | Investor 
 
 - Education : 
-     - Post Graduate Program in Data Science And Business Analytics from Great Learning, March 2021 - April 2022
-     - B.Tech Mechanical from SRM Institute of Science and Technology, June 2015 - May 2019
+     - **Post Graduate Program in Data Science And Business Analytics** from **Great Learning**,
+       - *March 2021 - April 2022*
+     - **B.Tech Mechanical Engineering** from **SRM Institute of Science and Technology**
+       - *June 2015 - May 2019*
 
 - Skills :
      - Data Mining,
