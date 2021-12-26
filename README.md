@@ -43,8 +43,8 @@
      * Numpy and Pandas
 
 - **Problem Statement, Analysis & Findings**:
-     - Majority of investors face the problem of managing their portfolio and lose a lot of time in making decisions due to which would rather be used for finding better positions in the markets. 
-     - This tool allows the user to visualise their stock portfolio and other attributes which assist in making decisions on managing their portfolio.
+     - Majority of investors face the problem of managing their portfolio and lose a lot of time in making decisions which would can be used for finding better positions in the markets. 
+     - This tool allows the user to visualise their stock portfolio and gives other attributes which assist in making decisions on managing their portfolio.
      - (Note : This is made only for personal use and for learning GUI design. The Stock Details which are being showcased in this project are random stocks and  **SHOULD NOT BE TAKEN AS INVESTMENT ADVICE**)
 
 
@@ -56,9 +56,9 @@
      * Matplotlib for Visualization
 
 - **Problem Statement, Analysis and Findings**:
-     - After a recent renovation of the kitchen, there came a problem of installing a new stove and chimney. Each store were selling products from the companies which sponsored    them and the recommendations were highly subjective. So choosing the right product for the kitchen seemed difficult.
-     - To get an objective opinion of the products, all stoves and chimneys data was scraped from Amazon for each of the three brands and compared against each other.
-
+     - After a recent renovation of the kitchen, the problem of installing a new stove and chimney arose. Each store was selling products from the companies which sponsored    them and the recommendations were highly subjective. So choosing the right product for the kitchen seemed difficult.
+     - To get an objective opinion of the products, all stoves and chimneys data was scraped from Amazon for each of the three brands and compared against each other. 
+     - The Ratings, Price and Model Names were scraped for the three companies in question.
 
 ## Project 3 : [Explicit Song Analyzer](https://github.com/the19thpirate/Explicit-Song-Analysis)
 
