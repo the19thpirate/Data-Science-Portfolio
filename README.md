@@ -14,16 +14,16 @@
      - **B.Tech Mechanical Engineering** from **SRM Institute of Science and Technology**
        - *June 2015 - May 2019*
 
-- |**Skills** | **Programming Languages** |
-   |Data Mining | Python |
-   |Predictive Modelling | R |
-   |Time Series Forecasting | SQL|
-   |Clustering|
-   |Dimensionality Reduction|
-   |Machine Learning|
-   |Natural language Processing|
-   |Deep Learning|
-   |Web Scraping|
+- **Skills**
+   - Data Mining
+   - Predictive Modelling
+   - Time Series Forecasting
+   - Clustering 
+   - Dimensionality Reduction
+   - Machine Learnin
+   - Natural language Processing
+   - Deep Learning
+   - Web Scraping
 
 ### Projects from Great Learning:
 * These are projects done under the specialisation course for Data Science and Business Analytics from GreatLearning.
