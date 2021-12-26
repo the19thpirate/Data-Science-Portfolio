@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ## About Me:
-- Prabhu Rohit Venkatesan, Data Science Enthusiast | Investor 
+- Prabhu Rohit Venkatesan, Data Science Enthusiast, Investor 
 
 - Education : 
      - **Post Graduate Program in Data Science And Business Analytics** from **Great Learning**,
