@@ -74,7 +74,8 @@
      - In 1985, the lead singer of Twisted Sister, Dee Snider had been summoned by the American Congress because the Parents Music Resource Center had singled them and a few       other artists for for ostensibly making obscene music.
      - The accusations were quickly falsified by the lead singer who also taught the American Congress on how to introduce songs to children.
      - This tool helps the user to find whether there are explicit words that might be present in current day top songs. Furthermore, this tool helps the user to understand        other aspects of the song by giving recommendations.
-     - The other recommendations come on the basis of these results which can be considered by the user when recommending the song they've analysed :
+     - The other recommendations come on the basis of these results which can be considered by the user when recommending the song they've analysed.
+     - The Polarity, Subjectivity/Objectivity of the song lyrics are calculated using TextBlob.
 
 
 ## Hackathons: BWAI Zero Waste Hunger Management 
