@@ -20,17 +20,17 @@
    - Time Series Forecasting
    - Clustering 
    - Dimensionality Reduction
-   - Machine Learnin
+   - Machine Learning
    - Natural language Processing
    - Deep Learning
    - Web Scraping
 
-### Projects from Great Learning:
+## Projects from Great Learning:
 * These are projects done under the specialisation course for Data Science and Business Analytics from GreatLearning.
 * The Projects inside this link are validated by Data Science Faculties from Great Learning
-* In the link provided, different aspects of data science - Exploratory Data Science, Machine Learning, Clustering, Time Series Forecasting and other models have been covered and briefly described in a dedicated academic e-portfolio:
+* In the link provided, different aspects of data science - Descriptive Analytics, Exploratory Data Analysis, different Unsupervised and Supervised techniques & models have been covered and briefly described in a dedicated academic e-portfolio:
 
-     [Academic ePortfolio (Great Learning)](https://eportfolio.mygreatlearning.com/prabhu-rohit-venkatesan)
+     [**Academic ePortfolio (Great Learning)**](https://eportfolio.mygreatlearning.com/prabhu-rohit-venkatesan)
 
 
 ## Project 1 : [Stock Portfolio Visualisation Tool](https://github.com/the19thpirate/Portfolio-Visualisation-)
@@ -48,19 +48,7 @@
      - (Note : This is made only for personal use and for learning GUI design. The Stock Details which are being showcased in this project are random stocks and  **SHOULD NOT BE TAKEN AS INVESTMENT ADVICE**)
 
 
-## Project 2 : [Kitchen Appliance Selection (Chimney and Stove)](https://github.com/the19thpirate/Kitchen-Appliances)
-
-- **Tools and Skills Used**:
-     * BeautifulSoup & Selenium for Web Scraping
-     * Numpy and Pandas 
-     * Matplotlib for Visualization
-
-- **Problem Statement, Analysis and Findings**:
-     - After a recent renovation of the kitchen, the problem of installing a new stove and chimney arose. Each store was selling products from the companies which sponsored    them and the recommendations were highly subjective. So choosing the right product for the kitchen seemed difficult.
-     - To get an objective opinion of the products, all stoves and chimneys data was scraped from Amazon for each of the three brands and compared against each other. 
-     - The Ratings, Price and Model Names were scraped for the three companies in question.
-
-## Project 3 : [Explicit Song Analyzer](https://github.com/the19thpirate/Explicit-Song-Analysis)
+## Project 2 : [Explicit Song Analyzer](https://github.com/the19thpirate/Explicit-Song-Analysis)
 
 - Link to Web Application:
 [Explicit Song Lyrics Analyser Web Application](https://share.streamlit.io/the19thpirate/explicit-song-analysis/main/hosting.py)
@@ -79,6 +67,18 @@
      - The other recommendations come on the basis of these results which can be considered by the user when recommending the song they've analysed.
      - The Polarity, Subjectivity/Objectivity of the song lyrics are calculated using TextBlob.
 
+
+## Project 3 : [Kitchen Appliance Selection (Chimney and Stove)](https://github.com/the19thpirate/Kitchen-Appliances)
+
+- **Tools and Skills Used**:
+     * BeautifulSoup & Selenium for Web Scraping
+     * Numpy and Pandas 
+     * Matplotlib for Visualization
+
+- **Problem Statement, Analysis and Findings**:
+     - After a recent renovation of the kitchen, the problem of installing a new stove and chimney arose. Each store was selling products from the companies which sponsored    them and the recommendations were highly subjective. So choosing the right product for the kitchen seemed difficult.
+     - To get an objective opinion of the products, all stoves and chimneys data was scraped from Amazon for each of the three brands and compared against each other. 
+     - The Ratings, Price and Model Names were scraped for the three companies in question.
 
 ## Hackathons
 ### 1. BWAI Zero Waste Hunger Management, Team Lead 
